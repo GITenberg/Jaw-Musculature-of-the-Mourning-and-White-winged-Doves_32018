@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35619'
     url: http://www.gutenberg.org/2009/agents/35619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32018#Jaw-Musculature-of-the-Mourning-and-White-winged-Doves
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
